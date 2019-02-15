@@ -8,4 +8,12 @@ body{
   position:relative;
   background-size:cover;
   height: 500px;
+
+}
+.head-text{
+  text-align: center;
+  font-size:3.0em;
+  font-family: 'Permanent Marker', cursive;
+  color: papayawhip;
+
 }
