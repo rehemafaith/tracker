@@ -11,6 +11,7 @@ var add = (val1 + val2);
 if (val1==val2==val3){
 alert("Your triangle is an Equilateral Triangle")
 }
+
 else if( val1==val2 && val1!=val3 || val2==val3 && val2!=val1|| val1==val3 && val1!=val2 ) {
    alert("your triangle is an isosceles triangle")
  }else if( add <= val3){
