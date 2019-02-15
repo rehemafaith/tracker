@@ -1,4 +1,11 @@
 body{
   background-color: peachpuff;
-  background-image
+}
+.head-img{
+  background-image:url("images/image.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  position:relative;
+  background-size:cover;
+  height: 500px;
 }
