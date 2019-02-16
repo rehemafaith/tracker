@@ -1,17 +1,16 @@
 body{
-  background-image:url('tribal.png');
+  background-image:url('background1.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   margin:1px
 }
 .head-img{
-  background-image:url("image.png");
-  background-repeat: no-repeat;
-  background-position: center;
-  position:relative;
+  background:rgb(0,0,0);
+  background:rgb(0,0,0,0.5);
+
   background-size:cover;
-  height: 500px;
+  height:500px;
   margin-top: auto;
 }
 .head-text{
@@ -19,6 +18,7 @@ body{
   font-size:3.0em;
   font-family: 'Permanent Marker', cursive;
   color: papayawhip;
+top:30%;
 
 }
 .entry{
