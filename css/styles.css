@@ -1,5 +1,9 @@
 body{
-  background-color: peachpuff;
+  background-image:url('tribal.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin:1px
 }
 .head-img{
   background-image:url("image.png");
@@ -8,7 +12,7 @@ body{
   position:relative;
   background-size:cover;
   height: 500px;
-
+  margin-top: auto;
 }
 .head-text{
   text-align: center;
@@ -18,6 +22,7 @@ body{
 
 }
 .entry{
+  font-size:2.0em
 
 }
 img{
