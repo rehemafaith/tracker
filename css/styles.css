@@ -1,5 +1,5 @@
 body{
-  background-image:url('background1.png');
+  background-image:url('image.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -23,10 +23,12 @@ top:30%;
 }
 .entry{
   font-size:2.0em
-
 }
 img{
   margin-left: auto;
   margin-right: auto;
   display: block;
+}
+br{
+  color:white;
 }
