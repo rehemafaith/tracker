@@ -15,7 +15,11 @@
 * If it is not a triangle, the sum of two values will be less or equal to the third value therefore it will alert that the values entered are not of a triangle. 
 
 ## BDD
-| **Behavior**  | **Input**
+| **Behavior** What the program handles | **Input** | **Output** |   
+| Determine if all the values are equal . | 1,1,1     | Equilateral       |  
+| Determine if two sides are equal .  | 1, 2, 2 | Isosceles  |   
+| Sum of two sides is >  third side | 3,4,5 | Scalene Triangle  |  
+| Sum of two sides is <= third side | 1,2,3 | Not a triangle |  
                 
                 
                 
