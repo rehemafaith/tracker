@@ -3,7 +3,7 @@
 ### Rehema Faith
 
 ## Description  
-#### The Triangle Tracker enables one to determine the type of a triangle by using the values of the sides of a triangle.  
+#### The Triangle Tracker enables one to determine the type of a triangle by using the values of the sides of a triangle.https://rehemafaith.github.io/tracker/ open the app using this link   
 ## Instructions  
 * Enter the values of the three sides of the triangle
 * If an equilateral triangle, all the values entered will be the same so it will alert that it is an equilateral triangle
@@ -29,6 +29,8 @@
 ## Contact Information:  
 ### Email: rehemafaith01@gmail.com
 
+### LISENCE
+* [MIT LICENSE](LISENCE)
                 
                 
                
