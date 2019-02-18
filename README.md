@@ -21,6 +21,14 @@
 | Sum of two sides is >  third side | 3,4,5 | Scalene Triangle  |  
 | Sum of two sides is <= third side | 1,2,3 | Not a triangle |  
                 
+## Technologies Used  
+
+* HTML
+* CSS
+* JavaScript  
+## Contact Information:  
+### Email: rehemafaith01@gmail.com
+
                 
                 
                
