@@ -31,6 +31,8 @@
 
 ### LISENCE
 * [MIT LICENSE](LISENCE)
+
+Copyright (c) 2019 
                 
                 
                
