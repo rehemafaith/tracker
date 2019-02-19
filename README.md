@@ -32,7 +32,7 @@
 ### LISENCE
 * [MIT LICENSE](LISENCE)
 
-Copyright (c) 2019 
+Copyright (c) 2019 **Rehema Faith**
                 
                 
                
